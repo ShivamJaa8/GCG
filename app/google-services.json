@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "135315863071",
+    "project_id": "galgotias-chat-group",
+    "storage_bucket": "galgotias-chat-group.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135315863071:android:6c866d9312edf7e757472a",
+        "android_client_info": {
+          "package_name": "com.example.gcg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQZpSFu6vERCL6B0w2jTPUuRL5LLmLBD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
