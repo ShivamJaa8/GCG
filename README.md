@@ -1,0 +1,3 @@
+Hey Guy's I'm Shivam and I have created this Android app as my college project.
+This App provides you a Interface For a realtime Chat with all the other Users available on this platform or have an account in this platform.
+The technologies I have used within this app are Android Studio as a platform and Programing languages like Java as a base language,XML for layout designing and developing or we can say for UI/UX designing and atlast Firebase for Database , Well you may ask why firebase so the answer is easy because of it's functionality like Cloud storage,Realtime Database,All types of Authentications like Google,Gmail,Phone,facebook,Instagram and So-on.These are some key points which makes Firebase more easier in some terms as compared to SQL and MongoDB.
